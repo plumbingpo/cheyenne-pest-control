@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cheyennepestcontrolco.com/sitemap.xml
